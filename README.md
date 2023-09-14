@@ -1,5 +1,5 @@
 # nft-polygon-subgraph
-NFT - Acorn app polygon testnet subgraph
+NFT app polygon testnet subgraph
 
 Created on: https://thegraph.com/
 
